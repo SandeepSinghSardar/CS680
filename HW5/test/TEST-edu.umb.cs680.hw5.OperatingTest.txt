@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw5.OperatingTest
+Test: checkingNonNullReturn() took 4 milli sec(s)
+Test: motionNotDetectedTesting() took 1 milli sec(s)
+Test: motionDetectedTesting() took 2 milli sec(s)
+Test: stopButtonPushedTesting() took 1 milli sec(s)
+Test: startButtonPushedTesting() took 1 milli sec(s)
+Test: checkingSameInstances() took 1 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 18 milli sec(s)
