@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw2.PrimeGeneratorTest
+Test: NegativeRangeNumber() took 111 milli sec(s)
+Test: generatePrime() took 11 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 174 milli sec(s)
